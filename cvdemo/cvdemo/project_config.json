@@ -1,0 +1,16 @@
+{
+  "name": "cvdemo",
+  "date_created": "2021-05-18",
+  "tags": {},
+  "max_tag_index": 0,
+  "classes": {
+    "shuai": []
+  },
+  "use_gpu": false,
+  "temporal": false,
+  "assisted_tagging": false,
+  "video_recording": {
+    "countdown": 3,
+    "recording": 5
+  }
+}
